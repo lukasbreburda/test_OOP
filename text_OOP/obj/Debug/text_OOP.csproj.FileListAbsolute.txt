@@ -1,0 +1,6 @@
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\text_OOP\text_OOP\bin\Debug\text_OOP.exe.config
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\text_OOP\text_OOP\bin\Debug\text_OOP.exe
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\text_OOP\text_OOP\bin\Debug\text_OOP.pdb
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\text_OOP\text_OOP\obj\Debug\text_OOP.csprojResolveAssemblyReference.cache
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\text_OOP\text_OOP\obj\Debug\text_OOP.exe
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\text_OOP\text_OOP\obj\Debug\text_OOP.pdb
